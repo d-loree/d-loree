@@ -4,4 +4,4 @@ Hey! My name's Dylan. I have a passion for programming and love learning new tec
 
 - :school: Carleton University Student
 - :computer: Majoring in Computer Science 
-- :globe_with_meridians: [Portfolio Website](https://dylanloree.ca/)
+- :globe_with_meridians: [Portfolio Website](https://www.dylanloree.ca/)
